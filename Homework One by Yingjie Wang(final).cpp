@@ -4,7 +4,7 @@ Purpose: Create a console application to calculate the real solution of a quadra
 input:  coefficients a, b, and c (integer values only)
 output: the quadratic equation (in the correct format) along with the correct solution(s), or output that there is no real solution.
 Date 6/12/2015
-By Yingjie Wang
+By Yingjie(Chelsea) Wang
 */
 
 #include <iostream>
